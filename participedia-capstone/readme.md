@@ -24,38 +24,41 @@ Participedia’s original dashboard suffered from:
 - Designed dynamic filters and callout bubbles for user education
 
 ## Dashboard Highlights
-
-![Home Page](screenshots/homepage.png)
-
 1. **Home Page**
 - Dynamic cards show live totals of cases, methods, and organizations.
 - Clickable map for country-specific stats.
 
-![Home Page](screenshots/cases.png)
+![Home Page](screenshots/homepage.png)
+
+
 3. **Cases Page**  
 - Filters by country, issue, and date.
 - Displays top-used methods and participant demographics.
 - Click-through graphs linked to case examples.
+  
+![Home Page](screenshots/cases.png)
 
-![Home Page](screenshots/methods.png)
 4. **Methods Page**  
 - Tracks online vs face-to-face methods.
 - Visualizes spectrum of participation and interaction types.
 - Informational tooltips guide users on interpretation.
 
-![Home Page](screenshots/organizations.png)
+![Home Page](screenshots/methods.png)
+
 5. **Organizations Page**  
 - Analyzes organization types and sector influence.
 - Filterable by country and scope.
 
+![Home Page](screenshots/organizations.png)
 
-![Home Page](screenshots/collections_1.png)
-
-![Home Page](screenshots/collections_2.png)
 6. **Collections Page**  
 - Built from scratch using Excel and VLOOKUP.
 - Focused on “Participation and Economic Advancement” curated collection.
 - Highlights funders and organizers
+
+![Home Page](screenshots/collections_1.png)
+
+![Home Page](screenshots/collections_2.png)
 
 ## Projected Impact
 The redesign addresses critical UX pain points that previously led to 35 second session durations. The guided walkthrough is expected to significantly increase session time and engagement. Standardization of data enables future automation and scalable insights.
